@@ -66,14 +66,8 @@ yarn start
 # 构建 Bundle（支持多种模式）
 ./scripts/build-bundle.sh
 
-# 快速构建调试 Bundle
-./scripts/build-debug-bundle.sh
-
-# 检查连接状态
-./scripts/check-connection.sh
-
-# 打开开发者菜单
-./scripts/open-dev-menu.sh
+# 开始metro服务 debug调试
+./scripts/start-debug.sh
 ```
 
 详细说明请参考 [scripts/README.md](scripts/README.md)
