@@ -14,7 +14,7 @@
 ## 🏗️ 项目结构
 
 ```
-react-native-module/
+android-react-native/
 ├── App.tsx                 # 主应用组件
 ├── index.js                # React Native 入口点
 ├── package.json            # 项目依赖配置
@@ -41,7 +41,7 @@ react-native-module/
 ### 2. 安装依赖
 
 ```bash
-cd react-native-module
+cd android-react-native
 npm install
 ```
 
